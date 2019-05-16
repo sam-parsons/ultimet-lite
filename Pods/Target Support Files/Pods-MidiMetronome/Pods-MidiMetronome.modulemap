@@ -1,0 +1,6 @@
+framework module Pods_MidiMetronome {
+  umbrella header "Pods-MidiMetronome-umbrella.h"
+
+  export *
+  module * { export * }
+}

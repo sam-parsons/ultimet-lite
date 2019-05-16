@@ -1,0 +1,16 @@
+PODS:
+  - JOCircularSlider (2.0.2)
+
+DEPENDENCIES:
+  - JOCircularSlider
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - JOCircularSlider
+
+SPEC CHECKSUMS:
+  JOCircularSlider: aa4d19202d0e579c0d5d70158d228d7225e1f786
+
+PODFILE CHECKSUM: 84bde49f787eb63f28afdb95a8c219ae59d0618a
+
+COCOAPODS: 1.5.3

@@ -7,6 +7,7 @@
 // 
 
 import UIKit
+import WebKit
 import AudioKit
 
 protocol passDataBack {
@@ -88,7 +89,7 @@ class SettingsViewController: UIViewController, UIWebViewDelegate, UINavigationC
         }
     }
     
-    private func webViewDidFinishLoad(webView: UIWebView) {
+    private func webViewDidFinishLoad(webView: WKWebView) {
         arrIndexProtocol?.setArrIndex(index: arrIndex)
     }
 }

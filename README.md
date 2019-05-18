@@ -36,7 +36,9 @@ git clone https://github.com/sam-parsons/UltiMet-Lite
 
 cd UltiMet-Lite/
 
-// further instructions needed
+pod install
+
+// Open *.xcworkspace file in Xcode
 ```
 
 ## Features

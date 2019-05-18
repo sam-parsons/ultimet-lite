@@ -212,7 +212,6 @@ class ViewController: UIViewController, passDataBack {
     
     func setArrIndex(index: Int) {
         arrIndex = index
-        print("arrIndex from delegate: ", arrIndex)
     }
 }
 

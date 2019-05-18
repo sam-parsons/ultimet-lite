@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/sam-parsons/UltiMet-Lite">
-    <img src="./UML.png" alt="metro symbol" width="80" />
+    <img src="./assets/UML.png" alt="metro symbol" width="80" />
   </a>
 </p>
 
@@ -15,7 +15,7 @@
 </p>
 <p align="center">
     <a href="https://github.com/sam-parsons/UltiMet-Lite">
-    <img src="./ultimetlife.gif" alt="metro thumbnail" width="50%" />
+    <img src="./assets/ultimetlife.gif" alt="metro thumbnail" width="50%" />
     </a>
 </p>
 

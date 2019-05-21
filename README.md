@@ -9,7 +9,7 @@
 <h1 align="center">UtliMet Lite</h1>
 
 <p align="center">
-  Musical utility for practicing and creating rhythmic phrases</a>.
+  Keep a steady beat with a simple metronome</a>.
   <br>
   <a href="https://github.com/sam-parsons/UltiMet-Lite"><strong>Live Demo »</strong></a>
 </p>

@@ -1,4 +1,3 @@
-<br>
 
 <p align="center">
   <a href="https://github.com/sam-parsons/UltiMet-Lite">
@@ -9,24 +8,12 @@
 <h1 align="center">UtliMet Lite</h1>
 
 <p align="center">
-  Keep a steady beat with a simple metronome</a>.
-  <br>
   <a href="https://github.com/sam-parsons/UltiMet-Lite"><strong>Live Demo »</strong></a>
 </p>
 <p align="center">
     <a href="https://github.com/sam-parsons/UltiMet-Lite">
     <img src="./assets/ultimetlife.gif" alt="metro thumbnail" width="50%" />
     </a>
-</p>
-
-<br>
-<br>
-
-<p align="center">
-  <a href="https://travis-ci.org/reakit/reakit"><img alt="Build Status" src="https://img.shields.io/travis/reakit/reakit/master.svg?style=flat-square" /></a>
-  <a href="https://codecov.io/gh/reakit/reakit/branch/master"><img alt="Coverage Status" src="https://img.shields.io/codecov/c/github/reakit/reakit/master.svg?style=flat-square" /></a><br>
-  <a href="https://spectrum.chat/reakit"><img src="https://img.shields.io/badge/community-spectrum-7A2DFB.svg?style=flat-square" alt="Spectrum" /></a>
-
 </p>
 
 ## Installation
@@ -46,11 +33,6 @@ pod install
 - Dial and Slider tempo control
 - Tap Tempo
 - Variable pitch
-
-## Future Features
-
-- Note length
-- Accents to denote meter
 
 ## License
 

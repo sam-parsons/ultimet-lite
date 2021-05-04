@@ -19,9 +19,9 @@
 ## Installation
 
 ```sh
-git clone https://github.com/sam-parsons/UltiMet-Lite
+git clone https://github.com/sam-parsons/ultimet-lite
 
-cd UltiMet-Lite/
+cd ultimet-lite/
 
 pod install
 
@@ -36,4 +36,4 @@ pod install
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+MIT
